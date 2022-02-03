@@ -7,3 +7,6 @@ This is for Scrimba's Front-End Developer Career Path where I built the classic 
 - HTML
 - CSS
 - Javascript
+
+## Preview
+<img src="https://github.com/thejoshyee/war/blob/main/war-preview.png" width="50%" />
